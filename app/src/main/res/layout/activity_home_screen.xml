@@ -19,7 +19,7 @@
             android:id="@+id/statusTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="App Installed:"
+            android:text="Number of users Installed the App:"
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
         <TextView
