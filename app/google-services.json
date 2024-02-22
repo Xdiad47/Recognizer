@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548676495809",
+    "project_id": "recognizer-1e11e",
+    "storage_bucket": "recognizer-1e11e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548676495809:android:563b864c540f0f8102e740",
+        "android_client_info": {
+          "package_name": "io.xdiad.recognizetheapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYfeGOgYG9PhVqFJxYfgiMiYSH-Bmlqs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
