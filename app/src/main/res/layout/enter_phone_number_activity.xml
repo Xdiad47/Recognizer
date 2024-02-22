@@ -21,7 +21,7 @@
         android:layout_below="@+id/Name"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
-        android:hint="Name"
+        android:hint="Enter Name"
         android:layout_marginRight="10dp"
         />
 
@@ -44,7 +44,7 @@
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="10dp"
-        android:hint="Phone number"
+        android:hint="Enter Phone number"
         android:autofillHints="phone"
         android:imeOptions="actionDone"
         android:inputType="number" />
