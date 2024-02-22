@@ -67,7 +67,7 @@ public class EnterPhoneNumber extends AppCompatActivity {
 
                     // Check if the phone number field is empty
                     if (phoneNumber.isEmpty()) {
-                        Toast.makeText(getApplicationContext(), "Please enter a phone number", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(), "Please enter phone number", Toast.LENGTH_SHORT).show();
                     }
                     // Check if the phone number is less than 10 digits
                     else if (phoneNumber.length() < 10) {
